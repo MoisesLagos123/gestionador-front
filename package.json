@@ -1,6 +1,9 @@
 {
   "name": "gestionador-front",
   "version": "0.0.0",
+  "engine":{
+    "node": "16.16.0"
+  },
   "scripts": {
     "heroku-postbuild": "ng build --prod",
     "ng": "ng",
